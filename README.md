@@ -1,4 +1,4 @@
-# 👋 Hi? I'm Frol. 
+# 👋 Hi. I'm Frol. 
 
   Hello. Until 2019, I didn't fully understand who I was or why I was born. But
   after some time, I still didn't understand who I was. And now, at this very
